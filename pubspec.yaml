@@ -1,0 +1,34 @@
+name: reso_coder_youtube_search
+description: A new Flutter application.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  built_value: ^6.3.1
+  built_collection: ^4.1.0
+  http: ^0.12.0+1
+  flutter_bloc: ^0.5.3
+  kiwi: ^0.1.0
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  build_runner: ^1.0.0
+  built_value_generator: ^6.3.1
+  mockito: ^4.0.0
+
+flutter:
+
+
+  uses-material-design: true
+

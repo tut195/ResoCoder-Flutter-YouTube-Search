@@ -1,0 +1,4 @@
+Будем использовать YouTubeData APIv3. При создании креденшиалов необходимо указать только usedata.
+
+
+AIzaSyBalZ_UPN2YtK96FV9TJNjjGsG1Imx6M1s - это api key!!!
